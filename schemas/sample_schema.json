@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "car_obj": {
+      "id": {
+        "type": "integer"
+      },
+      "status": {
+        "type": "string"
+      }
+  },
+  "required": [
+    "id"
+  ]
+  }
+}
